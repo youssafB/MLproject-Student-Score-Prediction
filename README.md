@@ -1,2 +1,2 @@
 # MLproject1
-End to end machine leanring project 
+End to End machine leanring project
