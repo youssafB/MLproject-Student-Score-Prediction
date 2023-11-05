@@ -28,7 +28,7 @@ setup(
     packages=find_packages(),                            # Automatically find and include all Python packages in the project
     
     # List the dependencies your project requires.
-    install_requires=get_install_requirements("requirements.txt"),
+    install_requires=get_install_requirements("requirements.txt")
 
      # Provide metadata about your package
 
