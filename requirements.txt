@@ -1,0 +1,6 @@
+numpy
+Pillow
+pandas
+seaborn
+-e .
+# Add more dependencies as needed
