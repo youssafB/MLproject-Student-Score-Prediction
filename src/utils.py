@@ -1,1 +1,1 @@
-# this is for any fonctionalty writien in  a common way 
+# this is for any fonctionalty written in  a common way 
