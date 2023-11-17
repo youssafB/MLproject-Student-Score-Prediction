@@ -7,6 +7,9 @@ from src.logger import logging
 import pandas as pd 
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
+# importation fo user test
+from src.components.data_transformation import DataTransformation
+from src.components.data_transformation import DataTransformationConfig
 
 # 1 carte a class for  any input is required ( here is the file path to save  train/tes/raw data )
 
@@ -61,4 +64,8 @@ class DataIngestion :
 
 if __name__=='__main__':
      data_ingestion=DataIngestion()
-     data_ingestion.initiate_data_ingestion()
+     train_data, test_data= data_ingestion.initiate_data_ingestion()
+
+     data_transformation_objct= DataTransformation()
+     train_arr , test_arr,  processor = data_transformation_objct.initiate_data_transformation(train_data,test_data)
+     
