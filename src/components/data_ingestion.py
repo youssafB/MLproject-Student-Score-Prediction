@@ -10,6 +10,8 @@ from dataclasses import dataclass
 # importation fo user test
 from src.components.data_transformation import DataTransformation
 from src.components.data_transformation import DataTransformationConfig
+from src.components.model_trainer import ModelTrainerConfig
+from src.components.model_trainer import ModelTrainer
 
 # 1 carte a class for  any input is required ( here is the file path to save  train/tes/raw data )
 
@@ -66,6 +68,17 @@ if __name__=='__main__':
      data_ingestion=DataIngestion()
      train_data, test_data= data_ingestion.initiate_data_ingestion()
 
+     #preprocessing 
      data_transformation_objct= DataTransformation()
      train_arr , test_arr,  processor = data_transformation_objct.initiate_data_transformation(train_data,test_data)
      
+     # modeling 
+     model_trainer =  ModelTrainer()
+     r2_test , best_score, best_model , report=model_trainer.initiate_model_trainer(train_arr,test_arr)
+     logging.info("  step done  ")
+     print("R2 on Test Set:", r2_test)
+
+     # if you want to take an idea about the traing process
+     print("best score  in traing :", best_score)
+     print("best model  in traing :", best_model)
+     print("report in trianing  :", report)
