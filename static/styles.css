@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    text-align: center; /* Center align text within the body */
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px; /* Add some space below the heading */
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto; /* Center the form horizontally */
+    text-align: left; /* Reset text alignment within the form */
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#result {
+    margin-top: 20px; /* Add space between the form and result message */
+    padding: 10px; /* Add padding for better visibility */
+    font-weight: bold;
+    color: #333;
+    background-color: #f2f2f2; /* Set the background color */
+    border-radius: 4px; /* Add rounded corners */
+}
+
