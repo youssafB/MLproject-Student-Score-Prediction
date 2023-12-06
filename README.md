@@ -68,11 +68,11 @@ AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wap
 
 # Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook](./notebook/1_EDA_Gemstone_price.ipynb)
+Link : [EDA Notebook](notebook/1 . EDA STUDENT PERFORMANCE .ipynb)
 
 # Model Training Approach Notebook
 
-Link : [Model Training Notebook](./notebook/2_Model_Training_Gemstone.ipynb)
+Link : [Model Training Notebook](notebook/2. MODEL TRAINING.ipynb)
 
 # Model Interpretation with LIME 
 
