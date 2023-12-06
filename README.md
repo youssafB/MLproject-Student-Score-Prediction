@@ -2,8 +2,11 @@
 
 
 # Students Performance in Exams Prediction
+This project aims to predict the performance of students in exams
 
-This project aims to predict the performance of students in exams based on a dataset obtained from Kaggle. The dataset includes various attributes such as parental education, test preparation course completion, and other demographic features. Machine learning models are used to predict students' exam scores.
+# Screenshot of UI
+
+![HomepageUI](./Screenshots/HomepageUI.jpg)
 
 ## Dataset
 
@@ -29,18 +32,13 @@ Dataset Source Link :
 
 AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
 
-# Screenshot of UI
 
-![HomepageUI](./Screenshots/HomepageUI.jpg)
 
 
 
 # AWS API Link
 
 
-# Postman Testing of API :
-
-![API Prediction](./Screenshots/APIPrediction.jpg)
 
 # Approach for the project 
 
