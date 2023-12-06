@@ -1,31 +1,29 @@
 # Gemstone Price Prediction - Utkarsh Gaikwad
 
-### Introduction About the Data :
 
-**The dataset** The goal is to predict `price` of given diamond (Regression Analysis).
+# Students Performance in Exams Prediction
 
-There are 10 independent variables (including `id`):
+This project aims to predict the performance of students in exams based on a dataset obtained from Kaggle. The dataset includes various attributes such as parental education, test preparation course completion, and other demographic features. Machine learning models are used to predict students' exam scores.
 
-* `id` : unique identifier of each diamond
-* `carat` : Carat (ct.) refers to the unique unit of weight measurement used exclusively to weigh gemstones and diamonds.
-* `cut` : Quality of Diamond Cut
-* `color` : Color of Diamond
-* `clarity` : Diamond clarity is a measure of the purity and rarity of the stone, graded by the visibility of these characteristics under 10-power magnification.
-* `depth` : The depth of diamond is its height (in millimeters) measured from the culet (bottom tip) to the table (flat, top surface)
-* `table` : A diamond's table is the facet which can be seen when the stone is viewed face up.
-* `x` : Diamond X dimension
-* `y` : Diamond Y dimension
-* `x` : Diamond Z dimension
+## Dataset
+
+The dataset used in this project is obtained from Kaggle and can be found [here](link_to_kaggle_dataset). It includes the following features:
+
+- `gender`: Student's gender (male/female)
+- `race/ethnicity`: Ethnicity of the student
+- `parental level of education`: Parental education level
+- `lunch`: Type of lunch the student receives
+- `test preparation course`: Whether the student completed a test preparation course
+- `math score`: Student's math exam score
+- `reading score`: Student's reading exam score
+- `writing score`: Student's writing exam score
 
 Target variable:
 * `price`: Price of the given Diamond.
 
 Dataset Source Link :
-[https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
 
-### It is observed that the categorical variables 'cut', 'color' and 'clarity' are ordinal in nature
 
-### Check this link for details : [American Gem Society](https://www.americangemsociety.org/ags-diamond-grading-system/)
 
 # AWS Deployment Link :
 
