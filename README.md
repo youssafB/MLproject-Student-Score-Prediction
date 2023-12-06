@@ -7,7 +7,7 @@ This project aims to predict the performance of students in exams based on a dat
 
 ## Dataset
 
-The dataset used in this project is obtained from Kaggle and can be found [here](link_to_kaggle_dataset). It includes the following features:
+The dataset used in this project is obtained from Kaggle and can be found [here](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977). It includes the following features:
 
 - `gender`: Student's gender (male/female)
 - `race/ethnicity`: Ethnicity of the student
