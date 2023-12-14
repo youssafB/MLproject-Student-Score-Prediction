@@ -1,5 +1,3 @@
-# Gemstone Price Prediction - Utkarsh Gaikwad
-
 
 # Students Performance in Exams Prediction
 This project aims to predict the performance of students in exams
@@ -31,13 +29,6 @@ Dataset Source Link :
 # AWS Deployment Link :
 
 AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
-
-
-
-
-
-# AWS API Link
-
 
 
 # Approach for the project 
