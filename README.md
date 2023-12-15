@@ -1,6 +1,6 @@
 
 # Students Performance in Exams Prediction
-This project is designed to predict students' exam performance enabling targeted interventions. It is an end-to-end machine learning project with modular coding , encompassing 
+This project is designed to predict students' exam performance enabling targeted interventions. It is an end-to-end machine learning project with modular coding , covering  :
 - data exploration
 - preprocessing
 -  model building
