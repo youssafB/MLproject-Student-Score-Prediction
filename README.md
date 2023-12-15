@@ -1,6 +1,11 @@
 
 # Students Performance in Exams Prediction
-This project is designed to predict students' exam performance enabling targeted interventions. It is an end-to-end machine learning project with modular coding , encompassing data exploration, preprocessing, model building, the creation of a Flask web application, and finally, deploying the model.
+This project is designed to predict students' exam performance enabling targeted interventions. It is an end-to-end machine learning project with modular coding , encompassing 
+- data exploration
+- preprocessing
+-  model building
+-   creation of a Flask web application,
+-   and finally, deploying the model.
 
 # Screenshot of UI
 ![HomepageUI](./Screenshots/HomepageUI.jpg)
