@@ -65,6 +65,6 @@ Link : [EDA Notebook](https://github.com/youssafB/MLproject1/blob/main/notebook/
 
 # Model Training Approach Notebook
 
-Link : [Model Training Notebook](notebook/2. MODEL TRAINING.ipynb)
+Link : [Model Training Notebook](https://github.com/youssafB/MLproject1/blob/main/notebook/2.%20MODEL%20TRAINING.ipynb)
 
 
