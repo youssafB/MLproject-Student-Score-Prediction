@@ -23,18 +23,6 @@ The dataset used in this project is obtained from Kaggle and can be found [here]
 - `reading score`: Student's reading exam score
 - `writing score`: Student's writing exam score
 
-Target variable:
-* `price`: Price of the given Diamond.
-
-Dataset Source Link :
-
-
-
-# AWS Deployment Link :
-
-AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
-
-
 # Approach for the project 
 
 1. Data Ingestion : 
