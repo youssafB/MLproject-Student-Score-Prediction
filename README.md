@@ -59,11 +59,11 @@ AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wap
 5. Flask App creation : 
     * Flask app is created with User Interface to predict the gemstone prices inside a Web Application.
 
-# Exploratory Data Analysis Notebook
+#### Exploratory Data Analysis Notebook
 
 Link : [EDA Notebook](https://github.com/youssafB/MLproject1/blob/main/notebook/1%20.%20EDA%20STUDENT%20PERFORMANCE%20.ipynb)
 
-# Model Training Approach Notebook
+#### Model Training Approach Notebook
 
 Link : [Model Training Notebook](https://github.com/youssafB/MLproject1/blob/main/notebook/2.%20MODEL%20TRAINING.ipynb)
 
